@@ -1,0 +1,15 @@
+.gallery {
+  padding-bottom: 64px;
+}
+
+@media (min-width: 768px) {
+  .gallery {
+    padding-bottom: 88px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .gallery {
+    padding-bottom: 92px;
+  }
+}

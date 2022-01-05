@@ -1,0 +1,21 @@
+.lead__route {
+  position: absolute;
+  top: 14.5%;
+  left: 0;
+  margin: 0 8px;
+  width: calc(100% - 16px);
+}
+
+@media (min-width: 768px) {
+  .lead__route {
+    margin: 0 18px;
+    width: calc(100% - 36px);
+  }
+}
+
+@media (min-width: 1024px) {
+  .lead__route {
+    margin: 0 22px;
+    width: calc(100% - 44px);
+  }
+}

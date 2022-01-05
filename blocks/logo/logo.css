@@ -1,0 +1,12 @@
+.logo {
+  display: block;
+  width: 142px;
+  height: 42px;
+}
+
+@media (min-width: 768px) {
+  .logo {
+    width: 176px;
+    height: 52px;
+  }
+}

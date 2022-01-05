@@ -1,0 +1,15 @@
+.place__header {
+  padding: 0 16px 0;
+  margin-bottom: 32px;
+}
+
+@media (min-width: 768px) {
+  .place__header {
+    padding: 0;
+    margin-bottom: 48px;
+    display: grid;
+    column-gap: 28px;
+    align-items: end;
+    grid-template-columns: 1fr 1fr;
+  }
+}

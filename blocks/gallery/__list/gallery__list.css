@@ -1,0 +1,40 @@
+.gallery__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media (min-width: 768px) {
+  .gallery__list {
+    display: grid;
+    gap: 16px;
+    grid-template-areas:
+    "a a"
+    "a a"
+    "a a"
+    "a a"
+    "a a"
+    "a a";
+  }
+}
+
+@media (min-width: 1024px) {
+  .gallery__list {
+    gap: 14px;
+    grid-template-areas:
+    "a a a"
+    "a a a"
+    "a a a"
+    "a a a";
+  }
+}
+
+@media (min-width: 1280px) {
+  .gallery__list {
+    gap: 16px;
+    grid-template-areas:
+    "a a a a"
+    "a a a a"
+    "a a a a";
+  }
+}

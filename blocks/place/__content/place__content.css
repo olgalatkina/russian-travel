@@ -1,0 +1,8 @@
+@media (min-width: 768px) {
+  .place__content {
+    display: grid;
+    column-gap: 28px;
+    align-items: start;
+    grid-template-columns: 1fr 1fr;
+  }
+}

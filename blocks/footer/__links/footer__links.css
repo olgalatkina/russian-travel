@@ -1,0 +1,14 @@
+.footer__links {
+  margin: 0 0 32px;
+  padding: 0;
+  list-style: none;
+}
+
+@media (min-width: 768px) {
+  .footer__links {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+  }
+}
