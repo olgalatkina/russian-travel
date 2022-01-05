@@ -1,4 +1,4 @@
-[![LOGO](./images/logo_dark.svg)](https://olgalatkina-russian-travel.netlify.app/ "Я ♥ ПУТЕШЕСТВОВАТЬ!")
+[![LOGO](./images/logo_dark.svg)](https://olgalatkina.github.io/russian-travel/ "Я ♥ ПУТЕШЕСТВОВАТЬ!")
 
 # Путешествия по России &bullet; [![badge](https://img.shields.io/badge/Label-Message-9cf)](https://shields.io/)
 
