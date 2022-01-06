@@ -1,8 +1,8 @@
-[![LOGO](./images/logo_dark.svg)](https://olgalatkina.github.io/russian-travel/ "Я ♥ ПУТЕШЕСТВОВАТЬ!")
+[![LOGO](./images/logo_grey.svg)](https://olgalatkina.github.io/russian-travel/ "Я ♥ ПУТЕШЕСТВОВАТЬ!")
 
 # Путешествия по России &bullet; [![badge](https://img.shields.io/badge/Label-Message-9cf)](https://shields.io/)
 
-Вёрстка сайта, посвящённого путешествиям по России.
+Вёрстка [сайта](https://olgalatkina.github.io/russian-travel/), посвящённого путешествиям по России.
 
 - Файловая структура по БЭМ (Nested)
 - Обнуление стилей при помощи normalize.css
