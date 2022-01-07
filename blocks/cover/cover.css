@@ -21,6 +21,7 @@
   height: 100%;
   background-color: var(--grey-main);
   opacity: 0.3;
+  transition: opacity .3s linear;
 }
 
 .cover:hover::before {
