@@ -51,12 +51,13 @@
 @import url(../blocks/place/__text/place__text.css);
 
 /* COVER */
+@import url(../blocks/container/_place/container_place_cover.css);
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/cover/__heading/cover__heading.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__second-line/cover__second-line.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
-@import url(../blocks/cover/__overlay/cover__overlay.css);
+
 
 /* FOOTER */
 @import url(../blocks/footer/footer.css);
