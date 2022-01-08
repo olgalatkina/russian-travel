@@ -1,6 +1,6 @@
 .lead {
   text-align: center;
-  padding-bottom: 64px;
+  padding: 0 0 64px;
 }
 
 @media (min-width: 768px) {
@@ -11,6 +11,12 @@
 
 @media (min-width: 1024px) {
   .lead {
-    padding-bottom: 92px;
+    padding: 0 48px 92px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container_place_lead {
+    padding: 0 148px 92px;
   }
 }

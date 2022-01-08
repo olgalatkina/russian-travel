@@ -6,7 +6,7 @@
   line-height: 1.63;
 }
 
-.place__text + .place__text {
+.place__text:not(:first-of-type) {
   margin-top: 26px;
 }
 

@@ -13,3 +13,9 @@
     padding-bottom: 92px;
   }
 }
+
+@media (min-width: 1280px) {
+  .intro {
+    padding: 0 148px 92px;
+  }
+}
