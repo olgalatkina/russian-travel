@@ -16,7 +16,7 @@
 }
 
 @media (min-width: 1280px) {
-  .container_place_lead {
+  .lead {
     padding: 0 148px 92px;
   }
 }
